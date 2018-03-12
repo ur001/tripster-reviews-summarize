@@ -1,0 +1,11 @@
+numpy
+scipy
+sklearn
+tqdm
+gensim
+matplotlib
+pandas
+jupyter
+nltk
+pymystem3
+gensim
